@@ -4,8 +4,6 @@ Processing user data...
 Create an avatar for user 
 
 change 1
-<<<<<<< HEAD
 change 2 adrian database
-=======
-change 2
->>>>>>> feature1
+
+
